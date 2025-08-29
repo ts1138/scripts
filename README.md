@@ -1,2 +1,2 @@
 # Scripts
-Samples of some useful scripts
+Some useful scripts for Administration and Reporting

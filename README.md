@@ -1,2 +1,2 @@
-# powershell
-Samples of some  useful Powershell scripts
+# Scripts
+Samples of some useful scripts
